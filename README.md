@@ -1,2 +1,0 @@
-# FirstRepository
-Practicing my development 
